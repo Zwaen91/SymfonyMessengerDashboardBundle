@@ -1,0 +1,22 @@
+{
+  "name": "websells/symfony-messenger-dashboard-bundle",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "WebSells\\SymfonyMessengerDashboardBundle\\": ""
+    }
+  },
+  "require": {
+    "symfony/messenger": "~4.0|~5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5",
+    "symfony/phpunit-bridge": "^4.3.5"
+  },
+  "authors": [
+    {
+      "name": "Sven Mäurer",
+      "email": "maeurer.sven@gmail.com"
+    }
+  ]
+}
