@@ -1,6 +1,7 @@
 {
   "name": "websells/symfony-messenger-dashboard-bundle",
   "type": "symfony-bundle",
+  "license": "GPL-3.0-or-later",
   "autoload": {
     "psr-4": {
       "WebSells\\SymfonyMessengerDashboardBundle\\": ""
